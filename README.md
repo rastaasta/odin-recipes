@@ -1,2 +1,2 @@
 # odin-recipes
-I am using all of the HTML knowledge I have gained from the Odin Project to create a website with a main index page of a few recipe links. 
+I am using all of the HTML knowledge I have gained from the Odin Project to create a website with a main index page of a few recipe links. Kimbop image from allrecipes. Noodles image from allrecipes. Rice image from allrecipes. Kimchi image from allrecipes. 
